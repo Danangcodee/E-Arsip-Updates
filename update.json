@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "changelog": [
+    "Hotfix: Penyelesain bug Cache Browser di Android yang membuat perbaikan lag tidak muncul",
     "Perbaikan FPS & Anti-Lag Extrim pada antarmuka Android UI",
     "Perbaikan layout icon bertumpuk di tombol pada mode responsif (Mobile)",
     "Peniadaan bayangan (box-shadow) dan transisi berat di layar kecil",
-    "Penyesuaian tinggi text (line-height) dan ukuran antarmuka yang lebih proporsional",
-    "Semua fitur dari versi v1.2.0 (Backup DB & Bot Telegram)"
+    "Semua perbaikan stabilitas dari versi sebelumnya"
   ],
-  "download_url": "https://raw.githubusercontent.com/Danangcodee/E-Arsip-Updates/refs/heads/main/v1.2.1.zip"
+  "download_url": "https://raw.githubusercontent.com/Danangcodee/E-Arsip-Updates/refs/heads/main/v1.2.2.zip"
 }
