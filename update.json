@@ -1,0 +1,11 @@
+{
+  "version": "1.2.0",
+  "changelog": [
+    "Penyempurnaan responsivitas halaman Login dan Tabel",
+    "Penghapusan efek visual blur yang berat (Anti-Lag disemua halaman)",
+    "Penambahan fitur Unduh / Cadangkan Database (.sql) pada Pengaturan",
+    "Penambahan fitur Kirim Database ke Telegram secara Mandiri",
+    "Integrasi Otomasi Sistem (Pseudo-Cron) Jadwal dan Jam Sinkronisasi DB ke Telegram"
+  ],
+  "download_url": "https://raw.githubusercontent.com/Danangcodee/E-Arsip-Updates/main/v1.2.0.zip"
+}
