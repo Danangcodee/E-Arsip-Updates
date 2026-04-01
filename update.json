@@ -1,11 +1,12 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "changelog": [
+    "Hotfix: Pembunuhan Radial Gradient dan Solidifikasi layar kaca transparan untuk menghapus lag total di HP kentang!",
     "Hotfix: Penyelesain bug Cache Browser di Android yang membuat perbaikan lag tidak muncul",
     "Perbaikan FPS & Anti-Lag Extrim pada antarmuka Android UI",
     "Perbaikan layout icon bertumpuk di tombol pada mode responsif (Mobile)",
     "Peniadaan bayangan (box-shadow) dan transisi berat di layar kecil",
     "Semua perbaikan stabilitas dari versi sebelumnya"
   ],
-  "download_url": "https://raw.githubusercontent.com/Danangcodee/E-Arsip-Updates/refs/heads/main/v1.2.2.zip"
+  "download_url": "https://raw.githubusercontent.com/Danangcodee/E-Arsip-Updates/refs/heads/main/v1.2.3.zip"
 }
